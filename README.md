@@ -1,2 +1,2 @@
 # threadsafe
-Thread safe data structures
+Thread safe data structures for Python
